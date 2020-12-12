@@ -1,0 +1,13 @@
+.story {
+    background-color: lightcoral;
+    grid-column: center-start / center-end;
+    &__picture {
+        // background-color: lawngreen;
+        // grid-column: col-start 1 / col-end 4;
+    }
+
+    &__content {
+        // background-color: lightcoral;
+        // grid-column: col-start 5 / col-end 8;
+    }
+}
